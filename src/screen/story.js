@@ -70,7 +70,7 @@ export default function Story({navigation}) {
     <View style={styles.container}>
       <View style={styles.imageContainer}>
         <Image
-          source={require('../img/runElephant.gif')}
+          source={require('../img/cuteElephant.gif')}
           style={styles.image}
         />
         <Text>
