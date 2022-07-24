@@ -15,7 +15,7 @@ export default function Home({navigation}) {
       </View>
       <View style={styles.imageContainer}>
         <Image
-          source={require('../img/runElephant.gif')} // first way (local)
+          source={require('../img/cuteElephant.gif')} // first way (local)
           style={styles.image}
         />
       </View>
